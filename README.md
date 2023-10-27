@@ -1,5 +1,8 @@
-<<<<<<< HEAD
-# ListadoPersona
+# ListadoPersonas
+An Angular Project to make a list of persons.
+
+# mail: gastuconsoli8@gmail.com
+# password: 123456
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
 
@@ -26,10 +29,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-=======
-# ListadoPersonas
-An Angular Project to make a list of persons.
 
-# mail: gastuconsoli8@gmail.com
-# password: 123456
->>>>>>> a1526e52e15fe9758a60f128384041ed3bc61c96
